@@ -1,0 +1,12 @@
+neuralplexer-inference --task=batched_structure_sampling \
+                       --input-receptor data/6np5/protein.pdb \
+                       --input-ligand data/6np5/ligand.sdf \
+                       --out-path results_rigid_receptor_6np5  \
+                       --model-checkpoint data/models/complex_structure_prediction.ckpt \
+		       --input-template data/6np5/protein.pdb \
+		       --use-template \
+                       --n-samples 1 \
+                       --chunk-size 1 \
+                       --num-steps=40 \
+		       --rank-outputs-by-confidence \
+                       --sampler=langevin_simulated_annealing
