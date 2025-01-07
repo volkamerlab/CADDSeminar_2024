@@ -7,13 +7,15 @@ dependencies:
   - jupyter
   - jupyterlab
   - pandas
+  - biopandas
   - numpy
   - matplotlib
+  - nglview
   - scipy
   - scikit-learn
   - xgboost
-  - jupyter_contrib_nbextensions
   - py3dmol
   - ca-certificates
-  - certifi
+  - biopython
+  - MDAnalysis
   - openssl
