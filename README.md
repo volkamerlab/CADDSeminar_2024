@@ -21,6 +21,13 @@ The seminar takes place on **Tuesdays**, starting at **10:15 am**.
 Date   | Course content                                                               |
 |-----:|:-----------------------------------------|
 29.10. | Introduction and topic assignment
+12.11. | Short presentations
+26.11. | Working on talktorials
+10.12. | Working on talktorials
+07.01. | Working on talktorials
+21.01. | Student presentations
+04.02. | Student presentations
+18.02. | Student presentations
 
 ## Before you start
 
