@@ -25,9 +25,9 @@ Date   | Course content                                                         
 26.11. | Working on talktorials
 10.12. | Working on talktorials
 07.01. | Working on talktorials
-21.01. | Student presentations
-04.02. | Student presentations
-18.02. | Student presentations
+28.01. | Student presentations (1a, 2a, 4b)
+11.02. | Student presentations (2b, 3a, 3b)
+18.02. | Student presentations (1b, 4a)
 
 ## Before you start
 
