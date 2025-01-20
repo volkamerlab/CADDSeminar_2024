@@ -1,6 +1,7 @@
 name: py310_caddseminar2024
 channels:
   - conda-forge
+  - defaults
 dependencies:
   - python=3.10
   - rdkit
@@ -18,4 +19,5 @@ dependencies:
   - ca-certificates
   - biopython
   - MDAnalysis
-  - openssl
+  - mdtraj
+  - smina
