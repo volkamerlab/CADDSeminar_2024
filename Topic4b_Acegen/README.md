@@ -1,4 +1,4 @@
-# T000 · Target-conditioned de-novo drug design
+# Topic_4B_Acegen · Target-conditioned de-novo drug design
 
 
 **Note**: This talktorial is a part of TeachOpenCADD, a platform that aims to teach domain-specific skills and to provide pipeline templates as starting points for research projects.
