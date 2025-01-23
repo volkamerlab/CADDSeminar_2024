@@ -1,0 +1,3 @@
+,model,task,step,batch_idx,absolute_time,smiles,valid,valid_score,unique,occurrences,smina_docking_score,smina_NetCharge,smina_PositiveCharge,smina_NegativeCharge,smina_best_variant,raw_smina_docking_score,single,filter,score_time
+32,reinvent,SMINA,17,0,1154.855220079422,OCc1cc(-n2nc(SCC(N(C)c3ccccc3)=O)c(Br)c(=O)c2)cc(OC)c1OC,false,0,true,0,0.0,0.0,0.0,0.0,0.0,1e-06,1e-06,1.0,53.40564441680908
+33,reinvent,SMINA,17,1,1154.855220079422,COc1cccc(-c2cc3c(N4CCN(C(=O)OC(C)(C)C)CC4C)ncnc3cn2)c1,true,1,true,0,-9.4,1.0,1.0,0.0,17_1-2,1e-06,1e-06,1.0,53.40564441680908
