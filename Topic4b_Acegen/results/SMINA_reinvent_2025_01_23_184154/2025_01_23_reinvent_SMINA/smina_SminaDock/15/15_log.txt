@@ -1,0 +1,20 @@
+2025-01-23 18:57:02,341 - DEBUG - Written 15_0-0
+2025-01-23 18:57:02,342 - DEBUG - Written 15_1-0
+2025-01-23 18:57:02,342 - DEBUG - Written 15_1-1
+2025-01-23 18:57:02,342 - DEBUG - Written 15_1-2
+2025-01-23 18:57:02,343 - DEBUG - Written 15_1-3
+2025-01-23 18:57:02,343 - DEBUG - Written 15_1-4
+2025-01-23 18:57:02,343 - DEBUG - Written 15_1-5
+2025-01-23 18:57:02,344 - DEBUG - Written 15_1-6
+2025-01-23 18:57:02,344 - DEBUG - Written 15_1-7
+2025-01-23 18:57:02,344 - DEBUG - Smina called
+2025-01-23 18:58:31,889 - DEBUG - Smina finished
+2025-01-23 18:58:31,890 - DEBUG - Docking score for 15_0-0: -8.8
+2025-01-23 18:58:31,891 - DEBUG - Docking score for 15_1-0: -10.6
+2025-01-23 18:58:31,892 - DEBUG - Found better 15_1-1: -10.8
+2025-01-23 18:58:31,893 - DEBUG - Found better 15_1-3: -11.1
+2025-01-23 18:58:31,894 - DEBUG - Best scores: {'15_0': -8.8, '15_1': -11.1}
+2025-01-23 18:58:31,894 - DEBUG - Returning best variants: ['15_0-0', '15_1-3']
+2025-01-23 18:58:31,894 - DEBUG - Keeping pose files: ['15_0-0_docked.sdf', '15_1-3_docked.sdf']
+2025-01-23 18:58:31,895 - DEBUG - Glob found 3 files
+2025-01-23 18:58:31,895 - DEBUG - Glob found 24 files

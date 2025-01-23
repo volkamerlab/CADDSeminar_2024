@@ -1,0 +1,29 @@
+2025-01-23 19:10:12,732 - DEBUG - Written 25_0-0
+2025-01-23 19:10:12,732 - DEBUG - Written 25_0-1
+2025-01-23 19:10:12,732 - DEBUG - Written 25_0-2
+2025-01-23 19:10:12,732 - DEBUG - Written 25_0-3
+2025-01-23 19:10:12,733 - DEBUG - Written 25_0-4
+2025-01-23 19:10:12,733 - DEBUG - Written 25_0-5
+2025-01-23 19:10:12,733 - DEBUG - Written 25_0-6
+2025-01-23 19:10:12,733 - DEBUG - Written 25_0-7
+2025-01-23 19:10:12,734 - DEBUG - Written 25_1-0
+2025-01-23 19:10:12,734 - DEBUG - Written 25_1-1
+2025-01-23 19:10:12,734 - DEBUG - Written 25_1-2
+2025-01-23 19:10:12,735 - DEBUG - Written 25_1-3
+2025-01-23 19:10:12,735 - DEBUG - Written 25_1-4
+2025-01-23 19:10:12,735 - DEBUG - Written 25_1-5
+2025-01-23 19:10:12,736 - DEBUG - Written 25_1-6
+2025-01-23 19:10:12,736 - DEBUG - Written 25_1-7
+2025-01-23 19:10:12,736 - DEBUG - Smina called
+2025-01-23 19:12:14,508 - DEBUG - Smina finished
+2025-01-23 19:12:14,509 - DEBUG - Docking score for 25_0-0: -7.9
+2025-01-23 19:12:14,510 - DEBUG - Found better 25_0-1: -8.4
+2025-01-23 19:12:14,511 - DEBUG - Found better 25_0-3: -8.5
+2025-01-23 19:12:14,511 - DEBUG - Found better 25_0-5: -9.1
+2025-01-23 19:12:14,515 - DEBUG - Found better 25_0-6: -9.3
+2025-01-23 19:12:14,516 - DEBUG - Docking score for 25_1-0: -10.5
+2025-01-23 19:12:14,519 - DEBUG - Best scores: {'25_0': -9.3, '25_1': -10.5}
+2025-01-23 19:12:14,519 - DEBUG - Returning best variants: ['25_0-6', '25_1-0']
+2025-01-23 19:12:14,519 - DEBUG - Keeping pose files: ['25_0-6_docked.sdf', '25_1-0_docked.sdf']
+2025-01-23 19:12:14,519 - DEBUG - Glob found 24 files
+2025-01-23 19:12:14,520 - DEBUG - Glob found 24 files

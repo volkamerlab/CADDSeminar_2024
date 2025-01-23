@@ -1,0 +1,9 @@
+2025-01-23 18:46:15,082 - DEBUG - Written 3_0-0
+2025-01-23 18:46:15,082 - DEBUG - Written 3_0-1
+2025-01-23 18:46:15,082 - DEBUG - Smina called
+2025-01-23 18:46:20,552 - DEBUG - Smina finished
+2025-01-23 18:46:20,554 - DEBUG - Docking score for 3_0-0: -7.6
+2025-01-23 18:46:20,554 - DEBUG - Best scores: {'3_0': -7.6}
+2025-01-23 18:46:20,554 - DEBUG - Returning best variants: ['3_0-0']
+2025-01-23 18:46:20,554 - DEBUG - Keeping pose files: ['3_0-0_docked.sdf']
+2025-01-23 18:46:20,554 - DEBUG - Glob found 6 files

@@ -1,0 +1,19 @@
+2025-01-23 18:50:37,082 - DEBUG - Written 8_0-0
+2025-01-23 18:50:37,082 - DEBUG - Written 8_0-1
+2025-01-23 18:50:37,083 - DEBUG - Written 8_0-2
+2025-01-23 18:50:37,083 - DEBUG - Written 8_0-3
+2025-01-23 18:50:37,083 - DEBUG - Written 8_0-4
+2025-01-23 18:50:37,084 - DEBUG - Written 8_0-5
+2025-01-23 18:50:37,084 - DEBUG - Written 8_0-6
+2025-01-23 18:50:37,084 - DEBUG - Written 8_0-7
+2025-01-23 18:50:37,085 - DEBUG - Written 8_1-0
+2025-01-23 18:50:37,085 - DEBUG - Written 8_1-1
+2025-01-23 18:50:37,085 - DEBUG - Smina called
+2025-01-23 18:51:38,994 - DEBUG - Smina finished
+2025-01-23 18:51:38,995 - DEBUG - Docking score for 8_0-0: -9.8
+2025-01-23 18:51:39,002 - DEBUG - Docking score for 8_1-0: -9.1
+2025-01-23 18:51:39,002 - DEBUG - Best scores: {'8_0': -9.8, '8_1': -9.1}
+2025-01-23 18:51:39,002 - DEBUG - Returning best variants: ['8_0-0', '8_1-0']
+2025-01-23 18:51:39,002 - DEBUG - Keeping pose files: ['8_0-0_docked.sdf', '8_1-0_docked.sdf']
+2025-01-23 18:51:39,003 - DEBUG - Glob found 24 files
+2025-01-23 18:51:39,003 - DEBUG - Glob found 6 files
