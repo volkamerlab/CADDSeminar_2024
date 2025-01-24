@@ -1,1 +1,1 @@
-Store the necessary data here.
+[solubility.csv](https://github.com/volkamerlab/CADDSeminar_2024/blob/T3b_SPN_datasplitting/Topic3b_Data_Splitting/data/solubility.csv) is a .csv file created from the [AqSolDB](https://github.com/mcsorkun/AqSolDB) dataset after filtering out invalid SMILES strings and multi-compound SMILES strings.
