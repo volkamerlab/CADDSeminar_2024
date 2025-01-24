@@ -168,7 +168,3 @@ cython_debug/
 
 # NeuralPLexer
 NeuralPLexer
-
-# Temporary data of NeuralPLexer Talktorial
-# Note: the precalculated NeuralPLexer files are uploaded onces but also added to .gitignore, 
-# since they are changeing with every run (we cannot set a seed there)
