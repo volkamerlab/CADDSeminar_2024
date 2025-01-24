@@ -23,4 +23,4 @@ Authors:
     ```bash
     jupyter-lab /path/to/notebook/directory
     ```
-5. **Run the following cells to install the necessary packages**
+5. **Follow the instructions in the notebook**
