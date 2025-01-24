@@ -172,7 +172,3 @@ NeuralPLexer
 # Temporary data of NeuralPLexer Talktorial
 # Note: the precalculated NeuralPLexer files are uploaded onces but also added to .gitignore, 
 # since they are changeing with every run (we cannot set a seed there)
-results_flexible_receptor_6np5/
-results_rigid_receptor_6np5/
-results_trajectory_6np5/
-6n5p/ligand_3d.sdf
