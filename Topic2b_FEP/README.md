@@ -1,1 +1,1 @@
-Give a very brief description of your topic.
+This is a talktorial for the topic Relative Binding Free Energy, created by Aditi Lalla under the guidance and supervision of Raquel López-Ríos de Castro.
