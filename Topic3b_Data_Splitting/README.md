@@ -1,1 +1,1 @@
-Give a very brief description of your topic.
+This talktorial teaches you how to split data into training and testing sets by creating clusters using different clustering methods to avoid information leakage. We also see the effect of these splits by training different machine learning models and explain their performance through non parametric tests.
